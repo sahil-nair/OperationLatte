@@ -1,2 +1,4 @@
 virt_env/
 *.pyc
+db.sqlite3
+operationlatte/__pycache__/
