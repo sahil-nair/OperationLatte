@@ -441,8 +441,8 @@ footer .copyright {
 }
 
 .post {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 2rem;
+  padding-right: 2rem;
   padding-top: 20px;
   padding-bottom: 20px;
 }
